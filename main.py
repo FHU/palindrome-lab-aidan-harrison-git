@@ -25,3 +25,6 @@ if __name__ == '__main__':
     #REMOVE PASS AND YOUR CODE GOES HERE
     word = input()
     print(palindrome(word))
+#comment
+
+#comment
